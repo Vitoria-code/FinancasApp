@@ -12,7 +12,6 @@ Finanças pessoais onde cadastra ou loga usuario, busca os detalhes do usuario l
 
 ![App Finanças](https://github.com/Vitoria-code/FinancasApp/assets/101776379/ade6d95e-c17f-4e97-a39d-7385ce632064)
 ![App Finanças - API](https://github.com/Vitoria-code/FinancasApp/assets/101776379/d64c328f-2045-4c51-ade5-e439c3532daf)
-(https://github.com/Vitoria-code/FinancasApp/assets/101776379/fb212dd1-0551-4b16-bd45-67207151acc8)
 
 ## Tecnologias utilizada
 
